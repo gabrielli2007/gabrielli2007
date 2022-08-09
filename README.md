@@ -1,0 +1,5 @@
+- # sobre mim
+- 👋 Hi, I’m @gabrielli2007
+- 👍 meu email de contato: gabrielli.karkling@escola.pr.gov.br
+- 👀 eu estou interessada em aprender a programar novas linguagens
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de javascript e scracht
